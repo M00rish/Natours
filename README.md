@@ -21,4 +21,4 @@
 - [esbuild](https://esbuild.github.io/) - An extremely fast bundler for the web
 - [Stripe](https://stripe.com/) - Online payment API
 - [Postman](https://www.getpostman.com/) - API testing
-- [Mailtrap](https://mailtrap.io/) & [Mailgun](https://www.mailgun.com/) - Email delivery platform
+- [Mailtrap](https://mailtrap.io/) & [brevo](https://www.brevo.com/) - Email delivery platform
